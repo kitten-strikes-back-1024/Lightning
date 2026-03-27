@@ -49,7 +49,7 @@ run
 ```
 
 **Screencast**
-`assets/screencast-2026-03-27-22-18-10.webm`
+<video src="assets/screencast-2026-03-27-22-18-10.webm" controls></video>
 
 **Scripts**
 Scripts live under `scripts/` and are loaded dynamically. Each script declares:
